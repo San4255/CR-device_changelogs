@@ -6,4 +6,5 @@ Phoenix
 + Added Google dialer call recording.
 + Added min and maximum refresh rate settings under display setting.
 + 
-
+ 10/11/2022
+ enable qr code scanner shortcut on lockscreen.
